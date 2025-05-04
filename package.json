@@ -1,0 +1,16 @@
+{
+  "name": "frissiondemo",
+  "version": "1.0.0",
+  "main": "Array.js",
+  "scripts": {
+    "start": "node Array.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "nodemon": "^3.1.10"
+  }
+}
